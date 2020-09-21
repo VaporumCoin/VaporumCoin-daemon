@@ -50,8 +50,9 @@ git clone https://github.com/SpaceWorksCo/spacecoin --branch master --single-bra
 # Change master branch to other branch you wish to compile
 cd spacecoin
 ./zcutil/fetch-params.sh
-./zcutil/build.sh -j$(expr $(nproc) - 1)
-#This can take some time.
+./zcutil/build.sh -j4
+# Change -j4 to specify the number of cores to use. ex: -j2
+# This can take some time.
 ```
 
 
