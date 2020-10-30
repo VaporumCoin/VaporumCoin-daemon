@@ -9,7 +9,6 @@ NAME=tSPACE
 
 # Chain parameters
 SUPPLY=3939393
-REWARD=3600000000
 ADDNODE1=165.227.35.158
 ADDNODE2=165.22.64.156
 ADDNODE3=188.166.221.247
@@ -17,7 +16,6 @@ ADDNODE3=188.166.221.247
 KMD=${KOMODOD:-./komodod}
 $KMD -ac_name=$NAME                              \
      -ac_supply=$SUPPLY                          \
-     -ac_reward=$REWARD                          \
      -ac_cc=939                                  \
      -ac_sapling=1                               \
      -addnode=$ADDNODE1                          \
