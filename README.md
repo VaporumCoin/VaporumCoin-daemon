@@ -52,7 +52,7 @@ Vaporumcoin builds for all operating systems out of the same codebase. Follow th
 #Install dependencies:
 sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python python-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl libsodium-dev
 # Clone the VaporumCoin repo
-git clone https://github.com/VaporumCoin/vaporum --branch master 
+git clone https://github.com/VaporumCoin/vaporum.git
 --single-branch
 # Change master branch to other branch you wish to compile
 cd vaporum
@@ -81,7 +81,7 @@ brew install protobuf
 brew install coreutils
 brew install wget
 # Clone the VaporumCoin repo
-git clone https://github.com/VaporumCoin/vaporum --branch master 
+git clone https://github.com/VaporumCoin/vaporum.git 
 --single-branch
 # Change master branch to other branch you wish to compile
 cd vaporum
@@ -106,7 +106,7 @@ sudo update-alternatives --config x86_64-w64-mingw32-g++
 # (configure to use POSIX variant)
 
 #Clone the Vaporumcoin repo
-git clone https://github.com/VaporumCoin/vaporum --branch master 
+git clone https://github.com/VaporumCoin/vaporum.git
 --single-branch
 # Change master branch to other branch you wish to compile
 cd vaporum
