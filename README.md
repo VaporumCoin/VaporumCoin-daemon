@@ -12,9 +12,9 @@ This is the official Vaporumcoin source code repository based on [KomodoPlatform
 
 ## Resources
 
-- Website:        [Coming Soon](https://vaporum.co/)
-- Block Explorer: [Coming Soon](https://explorer.vaporum.co/)
-- Discord:        [#VaporumCoin](https://discord.com/channels/1022595531488362527/1022595531488362530)
+- Website:        [VaporumCoin](https://vaporumcoin.us/)
+- Block Explorer: [explorer.vaporumcoin.us](https://explorer.vaporumcoin.us/)
+- Discord:        [#VaporumCoin](https://discord.gg/QSwCykhF)
 - Twitter:        [@vaporumcoin](https://twitter.com/VaporumCoin)
 - Support:        [#support channel on discord](https://discord.com/channels/1022595531488362527/1022597438822957106)
 - Bitcointalk:    [Coming Soon](https://bitcointalk.org)
@@ -52,8 +52,7 @@ Vaporumcoin builds for all operating systems out of the same codebase. Follow th
 #Install dependencies:
 sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python python-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl libsodium-dev
 # Clone the VaporumCoin repo
-git clone https://github.com/VaporumCoin/vaporum.git
---single-branch
+git clone https://github.com/VaporumCoin/vaporum.git --single-branch
 # Change master branch to other branch you wish to compile
 cd vaporum
 ./zcutil/fetch-params.sh
@@ -81,8 +80,7 @@ brew install protobuf
 brew install coreutils
 brew install wget
 # Clone the VaporumCoin repo
-git clone https://github.com/VaporumCoin/vaporum.git 
---single-branch
+git clone https://github.com/VaporumCoin/vaporum.git --single-branch
 # Change master branch to other branch you wish to compile
 cd vaporum
 ./zcutil/fetch-params.sh
@@ -106,8 +104,7 @@ sudo update-alternatives --config x86_64-w64-mingw32-g++
 # (configure to use POSIX variant)
 
 #Clone the Vaporumcoin repo
-git clone https://github.com/VaporumCoin/vaporum.git
---single-branch
+git clone https://github.com/VaporumCoin/vaporum.git --single-branch
 # Change master branch to other branch you wish to compile
 cd vaporum
 ./zcutil/fetch-params.sh
