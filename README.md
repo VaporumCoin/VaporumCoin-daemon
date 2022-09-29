@@ -29,7 +29,7 @@ This is the official Vaporumcoin source code repository based on [KomodoPlatform
 ## Getting started
 
 ```shell
-# Start with Komodo
+# Start with Komodo - RECOMMENDED!!
 ./komodod -ac_name=VPRM -ac_supply=0 -ac_eras=6 -ac_blocktime=30 -ac_reward=5000000000,2500000000,1250000000,625000000,312500000,156250000 -ac_end=1000000,3500000,8500000,18500000,38500000,166500000 -ac_staked=50 -ac_sapling=1 -ac_cbmaturity=1 -ac_cc=0 -addnode=68.3.67.21 -addnode=167.172.130.118 -addnode=157.230.90.81
 ```
 
