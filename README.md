@@ -3,7 +3,7 @@
 [![discord](https://img.shields.io/discord/701937565929963581)](https://vaporum.co/discord)
 
 ---
-![Vaporumcoin Logo](https://i.imgur.com/M36xYoN.png "Vaporumcoin Logo")
+![](./doc/images/Vaporum-logo.png)
 
 
 ## Vaporum (VPRM)
