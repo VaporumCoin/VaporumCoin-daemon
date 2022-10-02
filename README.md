@@ -4,7 +4,7 @@
 
 ---
 
-![](./doc/imgs/Vaporum-logo.png)
+![](./doc/imgs/Vaporum-Logo.png)
 
 
 ## Vaporum (VPRM)
