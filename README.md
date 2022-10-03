@@ -15,7 +15,7 @@ This is the official Vaporumcoin source code repository based on [KomodoPlatform
 
 - Website:        [VaporumCoin](https://vaporumcoin.us/)
 - Block Explorer: [explorer.vaporumcoin.us](https://explorer.vaporumcoin.us/)
-- Discord:        [#VaporumCoin](https://discord.gg/QSwCykhF)
+- Discord:        [#VaporumCoin](https://discord.gg/5QchCmWZ)
 - Twitter:        [@vaporumcoin](https://twitter.com/VaporumCoin)
 - Support:        [#support channel on discord](https://discord.com/channels/1022595531488362527/1022597438822957106)
 - Bitcointalk:    [Coming Soon](https://bitcointalk.org)
