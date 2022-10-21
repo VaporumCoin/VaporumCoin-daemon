@@ -38,7 +38,7 @@ This is the official Vaporumcoin source code repository based on [KomodoPlatform
 
 ```shell
 #The following packages are needed:
-sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python python-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl libsodium-dev
+sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python3 python3-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl libsodium-dev
 ```
 
 ### Build Vaporumcoin
@@ -51,7 +51,7 @@ Vaporumcoin builds for all operating systems out of the same codebase. Follow th
 #### Linux
 ```shell
 #Install dependencies:
-sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python python-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl libsodium-dev
+sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python3 python3-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl libsodium-dev
 # Clone the VaporumCoin repo
 git clone https://github.com/VaporumCoin/vaporum.git --single-branch
 # Change master branch to other branch you wish to compile
