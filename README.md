@@ -1,4 +1,4 @@
-[![gitstars](https://img.shields.io/github/stars/vaporumCoin/vaporumcoin?style=social)](https://github.com/VaporumCoin/vaporumcoin/stargazers)
+(https://github.com/VaporumCoin/vaporumcoin/stargazers)
 [![twitter](https://img.shields.io/twitter/follow/vaporumcoin?style=social)](https://twitter.com/vaporumcoin)
 [![discord](https://img.shields.io/discord/701937565929963581)](https://vaporum.co/discord)
 
