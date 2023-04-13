@@ -20,7 +20,7 @@ This is the official Vaporumcoin source code repository based on [KomodoPlatform
 - Bitcointalk:    [Coming Soon](https://bitcointalk.org)
 
 ## Tech Specification
-- Max Supply: 500,000,000 VPRM
+- Max Supply: 500,000,000 VPRM (first halving will occur September 15, 2023 at block 1 million)
 - Block Time: 30 seconds
 - Block Reward: 50 VPRM
 - Block Generation: 50% PoW | 50% PoS
