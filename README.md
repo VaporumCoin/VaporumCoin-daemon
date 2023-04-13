@@ -13,11 +13,12 @@ This is the official Vaporumcoin source code repository based on [KomodoPlatform
 ## Resources
 
 - Website:        [VaporumCoin](https://vaporumcoin.us/)
-- Block Explorer: [explorer.vaporumcoin.us](https://explorer.vaporumcoin.us/)
-- Discord:        [#VaporumCoin](https://discord.gg/5QchCmWZ)
+- Block Explorer: [explorer2.vaporumcoin.us](https://explorer2.vaporumcoin.us/)
+- Discord:        [#VaporumCoin](https://discord.com/invite/p9wBstnf3K)
 - Twitter:        [@vaporumcoin](https://twitter.com/VaporumCoin)
 - Support:        [#support channel on discord](https://discord.com/channels/1022595531488362527/1022597438822957106)
-- Bitcointalk:    [Coming Soon](https://bitcointalk.org)
+- Bitcointalk:    [https://bitcointalk.org/index.php?topic=5415421)
+- AtomicDEX:
 
 ## Tech Specification
 - Max Supply: 500,000,000 VPRM (first halving will occur September 15, 2023 at block 1 million)
